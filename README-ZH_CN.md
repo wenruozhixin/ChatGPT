@@ -19,6 +19,12 @@
 - **有人利用它进行二次打包销售，谋取私利**
 - **ChatGPT 因名称和图标问题可能会涉及侵权**
 
+
+
+
+
+
+
 **新仓库：https://github.com/lencx/nofwl**
 
 ---
@@ -42,6 +48,9 @@
   # install the specified version
   winget install --id=lencx.ChatGPT -e --version 0.10.0
   ```
+
+
+
 
 **注意：如果安装路径和应用名称相同，会导致冲突 ([#142](https://github.com/lencx/ChatGPT/issues/142#issuecomment-0.12.0))**
 
