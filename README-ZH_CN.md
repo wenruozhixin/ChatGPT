@@ -1,7 +1,7 @@
 <p align="center">
   <img width="180" src="./public/logo.png" alt="ChatGPT">
   <h1 align="center">ChatGPT</h1>
-  <p align="center">ChatGPT 桌面应用（Mac, Windows and Linux）</p>
+  <p align="center">ChatGPT sssssssss桌面应用（Mac, Windows and Linux）</p>
 </p>
 
 [![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
